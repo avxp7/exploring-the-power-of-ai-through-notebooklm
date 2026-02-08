@@ -16,17 +16,6 @@ Este repositório reúne todos os projetos e exercícios que desenvolvi durante 
 
 > (*"Como Alan Turing e a máquina Bombe venceram a cifra Enigma?"* — Uma das interações simuladas no projeto.)
 
-[Screenshot do Turing][testTuring]
-
-### Link para o chat com "Alan Turing- AI": (https://notebooklm.google.com/notebook/27ba05da-8595-440b-b854-4a0183deb8eb?authuser=3)
-
-[Certificado de Conclusão][CertificadoM1]
-
-*Status: Concluído*
-----
-
-[testTuring]: media/TuringMind/testTuring.png
-[CertificadoM1]: media/TuringMind/CerificadoM1.png
 
 
 ### 🤖 [Módulo 02] Em andamento...
